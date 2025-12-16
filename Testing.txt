@@ -91,3 +91,13 @@ email cc_type CCN cc_cvc cc_expiredate
  anelson@domain.com m 5413 4428 0145 0036 496 2010/02/01
  mtownsend@domain.com v 4539 8219 0484 7598 710 2011/03/01
  rzwick@domain.com v 5252 5971 4219 4116 173 2011/02/01
+
+
+ IP and MAC address testing
+•	
+•	
+•	MAC: 00:1A:2B:3C:4D:5E, AA-BB-CC-DD-EE-FF, a1b2.c3d4.e5f6 with nearby text “MAC address”.
+•	IPv4: 10.10.10.10, 172.16.5.100, 192.168.1.254
+•	IPv6: fd12:3456:789a:1::1, ::1, fe80::1
+•	IPv6 v4-mapped: ::ffff:192.0.2.128
+
