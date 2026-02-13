@@ -113,3 +113,5 @@ tetsing 5
 test 6 from Jetbrains
 
 testing from GitKraken Terminal
+
+tetsing from terminal
