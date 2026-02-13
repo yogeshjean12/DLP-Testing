@@ -115,3 +115,5 @@ test 6 from Jetbrains
 testing from GitKraken Terminal
 
 tetsing from terminal
+
+ testing from Gitkaren terminal
