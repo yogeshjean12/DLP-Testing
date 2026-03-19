@@ -126,3 +126,5 @@ testing 7/01/26
  465-73-5022 f 1964/06/20 Summers Kaminski Teres
 
  Testing from jetbrain
+
+Testing from Intellij
